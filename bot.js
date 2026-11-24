@@ -19,7 +19,7 @@ if (typeof Bot !== 'function') {
 // =============================================================
 const CONFIG = {
     OWNER_ID:   8872751291,
-    BOT_TOKEN:  '9165297622:AAGGzWZhdv6R1Z9K6f5685LrahBj2sTN2TM',
+    BOT_TOKEN:  '9030160105:AAFRI9E76I6QRx9n14y6VCgm7jgrzhqA94Q',
 
     SCRIPT_PATH: 'c-rush.js',
 
