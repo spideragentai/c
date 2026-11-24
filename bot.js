@@ -24,7 +24,7 @@ const CONFIG = {
     SCRIPT_PATH: 'c-rush.js',
 
     // per-attack input ceilings
-    MAX_ATTACK_DURATION:     600,   // 10 min per attack
+    MAX_ATTACK_DURATION:     120,   // 10 min per attack
     HARD_MAX_THREADS:        100,   // per attack
     HARD_MAX_RATE:           200,   // req/sec per thread
 
