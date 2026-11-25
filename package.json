@@ -1,0 +1,13 @@
+{
+  "name": "c-rush-bot",
+  "version": "4.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "node-telegram-bot-api": "0.66.0",
+    "ssh2": "^1.15.0",
+    "axios": "^1.6.0",
+    "colors": "^1.4.0",
+    "node-bash-title": "^1.1.1",
+    "hpack": "^0.1.1"
+  }
+}
